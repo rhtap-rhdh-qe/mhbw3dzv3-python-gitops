@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mhbw3dzv3-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/mhbw3dzv3-python
